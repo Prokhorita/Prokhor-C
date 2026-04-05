@@ -1,2 +1,0 @@
-# Prokhor-C
-osnovi programirovani
